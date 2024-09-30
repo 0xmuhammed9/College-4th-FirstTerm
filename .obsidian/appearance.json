@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Material Ocean",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Cornell-Class",
+    "cornell-banner",
+    "cornell-left",
+    "cornell-right",
+    "customcue"
+  ],
+  "accentColor": "#ac1126"
+}

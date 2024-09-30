@@ -1,0 +1,9 @@
+/* Custom Cue with Left Border */
+.cue {
+  border-left: 4px solid #FF5733; /* Change color and width here */
+  padding-left: 10px;
+  margin: 10px 0;
+  background-color: #f9f9f9; /* Optional background color */
+  font-style: italic; /* Optional style */
+}
+
