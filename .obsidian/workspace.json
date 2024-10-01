@@ -8,15 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e42a6ab3b6f5952d",
+            "id": "f320bf03c0d8201c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Digital-System/Images/CLB-and-LogicCell-BlockDiagram.md"
               }
             }
           }
@@ -110,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Digital-System/Images/CLB-and-LogicCell-BlockDiagram.md"
               }
             }
           },
@@ -131,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Digital-System/Images/CLB-and-LogicCell-BlockDiagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Digital-System/Images/CLB-and-LogicCell-BlockDiagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 287.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,9 +173,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e42a6ab3b6f5952d",
+  "active": "f320bf03c0d8201c",
   "lastOpenFiles": [
     "Digital-System/Lectures/Lecture_1_Introduction.md",
+    "Digital-System/Images/CLB-and-LogicCell-BlockDiagram.md",
+    "Digital-System/Records/GeneralStructureOfFPGA.webm",
+    "Digital-System/Images/GeneralStructureOfFPGA.excalidraw.md",
+    "Embedded-Systems/Lectures/Lecture_1_Introduction-To-Embedded-System.md",
+    "Digital-System/Images/FpgaArchitecure.png",
+    "README.md",
     "Extra/Templates/Cornell-Notes-Template.md",
     "Extra/Excalidraw/First-Term-Subjects.md",
     "Digital-System/MindMap",
@@ -185,11 +189,9 @@
     "Digital-System/Records",
     "Digital-System/Sheets",
     "Digital-System/Lectures",
-    "Embedded-Systems/Lectures/Lecture_1_Introduction-To-Embedded-System.md",
     "Tasks Plugin - Review and check your Statuses 2024-10-01 12-13-53.md",
     "Embedded-Systems/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
     "Embedded-Systems/Images/GenralArhcitecureofMCU.md",
-    "README.md",
     "Embedded-Systems/Records/GenralBlockDiagramofEmbeddedSystem.webm",
     "Pasted image 20240930160440.png",
     "Recording 20240930155622.webm",
@@ -197,7 +199,6 @@
     "Images/Images",
     "Images",
     "Pasted image 20240930152521.png",
-    "Embedded-Systems/Records",
     "Embedded-Systems/Untitled.md",
     "Machine-Learning/Lecture 2.md",
     "Invalid date.md",
@@ -219,9 +220,6 @@
     "Images/AttributeSelector.png",
     "Images/IdSelector.png",
     "Images/ClassSelect2.png",
-    "Images/ClassSelect.png",
-    "Images/SelectElement1.png",
-    "Section 4 - Multi-Page Websites.md",
-    "Section 3 - Intermediate HTML.md"
+    "Images/ClassSelect.png"
   ]
 }
