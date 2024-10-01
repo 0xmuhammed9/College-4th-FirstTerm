@@ -37,4 +37,3 @@ Study-Date: 2024-09-30
 # 4. General Architecture of MC
 
 - Check the Block Diagram [[GenralArhcitecureofMCU]]
-- 
