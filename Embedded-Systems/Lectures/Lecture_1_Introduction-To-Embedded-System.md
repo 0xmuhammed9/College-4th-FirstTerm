@@ -1,14 +1,14 @@
 ---
 Lecture-Date: 2024-09-29
-Finish?: false
-Study-Date:
+Finish?: true
+Study-Date: 2024-09-30
 ---
 ---
 >[!List] **Main** **Topics** 
 > 1. Definition of Embedded System 
-> 2. General Block Diagram of Embedded Systems
+> 2. General Block Diagram of Embedded Systems (Block)
 > 3. Characteristics of Embedded Systems
-> 4. General Architecture of MC
+> 4. General Architecture of MC (Block)
 
 >[!Summary]
 >-
@@ -32,3 +32,9 @@ Study-Date:
 
 # 3. Characteristics of Embedded System
 
+
+
+# 4. General Architecture of MC
+
+- Check the Block Diagram [[GenralArhcitecureofMCU]]
+- 
