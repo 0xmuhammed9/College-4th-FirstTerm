@@ -4,29 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "58885432b75bcd9e",
+        "id": "ca74e06a9bf0d6c7",
         "type": "tabs",
         "children": [
           {
-            "id": "3619c66a711da305",
+            "id": "e42a6ab3b6f5952d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded-Systems/Lectures/Lecture_1_Introduction-To-Embedded-System.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "74b2435d31d81e61",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Embedded-Systems/Images/GeneralBlockDiagramofAnEmbeddedSystems.md"
               }
             }
           }
@@ -120,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded-Systems/Lectures/Lecture_1_Introduction-To-Embedded-System.md"
+                "file": "README.md"
               }
             }
           },
@@ -141,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded-Systems/Lectures/Lecture_1_Introduction-To-Embedded-System.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded-Systems/Lectures/Lecture_1_Introduction-To-Embedded-System.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,13 +172,24 @@
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "3619c66a711da305",
+  "active": "e42a6ab3b6f5952d",
   "lastOpenFiles": [
-    "Embedded-Systems/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
+    "Digital-System/Lectures/Lecture_1_Introduction.md",
+    "Extra/Templates/Cornell-Notes-Template.md",
+    "Extra/Excalidraw/First-Term-Subjects.md",
+    "Digital-System/MindMap",
+    "Digital-System/Images",
+    "Digital-System/Records",
+    "Digital-System/Sheets",
+    "Digital-System/Lectures",
     "Embedded-Systems/Lectures/Lecture_1_Introduction-To-Embedded-System.md",
+    "Tasks Plugin - Review and check your Statuses 2024-10-01 12-13-53.md",
+    "Embedded-Systems/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
+    "Embedded-Systems/Images/GenralArhcitecureofMCU.md",
+    "README.md",
     "Embedded-Systems/Records/GenralBlockDiagramofEmbeddedSystem.webm",
     "Pasted image 20240930160440.png",
     "Recording 20240930155622.webm",
@@ -197,24 +198,16 @@
     "Images",
     "Pasted image 20240930152521.png",
     "Embedded-Systems/Records",
-    "Embedded-Systems/Labs",
-    "Embedded-Systems/MindMap",
-    "Embedded-Systems/Images",
-    "Embedded-Systems/Sheets",
     "Embedded-Systems/Untitled.md",
-    "Embedded-Systems/Lectures",
-    "Extra/Templates/Cornell-Notes-Template.md",
     "Machine-Learning/Lecture 2.md",
     "Invalid date.md",
     "Embedded-Systems/Lecture2.md",
     "Machine-Learning/Lecture 1.md",
     "Untitled.md",
-    "README.md",
     "Embedded-Systems/Lecture Two.md",
     "Computer-Network/Lecture_1_.md",
     "Tempelates/Lecture_n_Subject.md",
     "Digital-Design/Lecture-1-.md",
-    "Extra/Excalidraw/First-Term-Subjects.md",
     "Excalidraw/Drawing 2024-09-26 15.22.54.excalidraw.md",
     "Welcome.md",
     "Untitled/Embedded System.md",
@@ -229,8 +222,6 @@
     "Images/ClassSelect.png",
     "Images/SelectElement1.png",
     "Section 4 - Multi-Page Websites.md",
-    "Section 3 - Intermediate HTML.md",
-    "Section 2 - Introduction to HTML.md",
-    "Templates/Cornell Note.md"
+    "Section 3 - Intermediate HTML.md"
   ]
 }

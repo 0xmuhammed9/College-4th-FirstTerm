@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNewspaper",
       "LiVolume2",
       "LiExperiment",
       "LiBrain",
-      "LiImage",
-      "LiPenBox"
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,10 @@
   "Embedded-Systems/Images": "LiImage",
   "Embedded-Systems/MindMap": "LiBrain",
   "Embedded-Systems/Labs": "LiExperiment",
-  "Embedded-Systems/Records": "LiVolume2"
+  "Embedded-Systems/Records": "LiVolume2",
+  "Digital-System/Images": "LiImage",
+  "Digital-System/Sheets": "LiPenBox",
+  "Digital-System/Lectures": "LiNewspaper",
+  "Digital-System/MindMap": "LiBrain",
+  "Digital-System/Records": "LiVolume2"
 }
