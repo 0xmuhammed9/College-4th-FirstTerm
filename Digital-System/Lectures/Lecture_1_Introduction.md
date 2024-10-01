@@ -9,7 +9,7 @@ Study-Date: 2024-10-01
 > - CLB Components 
 > - VHDL vs Verilog 
 
->[!Summary]
+>[!Note] Summary
 >-
 >-
 
