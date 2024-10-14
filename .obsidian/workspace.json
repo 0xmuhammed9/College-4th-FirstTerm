@@ -8,12 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f320bf03c0d8201c",
+            "id": "4cbee71eabd24338",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Digital-System/Images/CLB-and-LogicCell-BlockDiagram.md"
+                "file": "Embedded-Systems/Sheets/Sheet-2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -107,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital-System/Images/CLB-and-LogicCell-BlockDiagram.md"
+                "file": "Embedded-Systems/Sheets/Sheet-2.md"
               }
             }
           },
@@ -128,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital-System/Images/CLB-and-LogicCell-BlockDiagram.md",
+                "file": "Embedded-Systems/Sheets/Sheet-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital-System/Images/CLB-and-LogicCell-BlockDiagram.md",
+                "file": "Embedded-Systems/Sheets/Sheet-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,15 +176,28 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f320bf03c0d8201c",
+  "active": "4cbee71eabd24338",
   "lastOpenFiles": [
-    "Digital-System/Lectures/Lecture_1_Introduction.md",
+    "Embedded-Systems/Lectures/Lecture_2_Input-Output_Port.md",
+    "Embedded-Systems/Sheets/Sheet-2.md",
+    "Embedded-Systems/Records/Example1Lecture2.mkv",
+    "Embedded-Systems/Records/2024-10-13 12-35-06.mkv",
+    "Embedded-Systems/Records/2024-10-13 12-34-02.mkv",
+    "Recording 20241013122344.webm",
+    "Embedded-Systems/Images/Example1Lecture2.png",
+    "Embedded-Systems/Images/StructureofprogrammableparallelInputOutputports.png",
+    "Embedded-Systems/Images/structureofinput-output.png",
+    "README.md",
+    "Embedded-Systems/Images/strucureofparalleloutput.png",
+    "Embedded-Systems/Images/Structureofparallelinput.png",
+    "Embedded-Systems/Images/GenralArhcitecureofMCU.md",
+    "Embedded-Systems/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
+    "Embedded-Systems/Lectures/Lecture_1_Introduction-To-Embedded-System.md",
     "Digital-System/Images/CLB-and-LogicCell-BlockDiagram.md",
+    "Digital-System/Lectures/Lecture_1_Introduction.md",
     "Digital-System/Records/GeneralStructureOfFPGA.webm",
     "Digital-System/Images/GeneralStructureOfFPGA.excalidraw.md",
-    "Embedded-Systems/Lectures/Lecture_1_Introduction-To-Embedded-System.md",
     "Digital-System/Images/FpgaArchitecure.png",
-    "README.md",
     "Extra/Templates/Cornell-Notes-Template.md",
     "Extra/Excalidraw/First-Term-Subjects.md",
     "Digital-System/MindMap",
@@ -190,14 +206,8 @@
     "Digital-System/Sheets",
     "Digital-System/Lectures",
     "Tasks Plugin - Review and check your Statuses 2024-10-01 12-13-53.md",
-    "Embedded-Systems/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
-    "Embedded-Systems/Images/GenralArhcitecureofMCU.md",
-    "Embedded-Systems/Records/GenralBlockDiagramofEmbeddedSystem.webm",
     "Pasted image 20240930160440.png",
-    "Recording 20240930155622.webm",
     "Images/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
-    "Images/Images",
-    "Images",
     "Pasted image 20240930152521.png",
     "Embedded-Systems/Untitled.md",
     "Machine-Learning/Lecture 2.md",
@@ -212,14 +222,7 @@
     "Excalidraw/Drawing 2024-09-26 15.22.54.excalidraw.md",
     "Welcome.md",
     "Untitled/Embedded System.md",
-    "Section 6 - CSS Properties.md",
     "Images/Div.png",
-    "Section 5 - Introduction to CSS.md",
-    "Images/UniversalSelector.png",
-    "Images/AttributeSelector1.png",
-    "Images/AttributeSelector.png",
-    "Images/IdSelector.png",
-    "Images/ClassSelect2.png",
-    "Images/ClassSelect.png"
+    "Images/UniversalSelector.png"
   ]
 }
