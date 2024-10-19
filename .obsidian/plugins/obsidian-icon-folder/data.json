@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiNewspaper",
-      "LiVolume2",
-      "LiExperiment",
       "LiBrain",
-      "LiImage"
+      "LiImage",
+      "LiPenBox",
+      "LiNewspaper",
+      "LiVolume2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -67,5 +67,16 @@
   "Digital-System/Sheets": "LiPenBox",
   "Digital-System/Lectures": "LiNewspaper",
   "Digital-System/MindMap": "LiBrain",
-  "Digital-System/Records": "LiVolume2"
+  "Digital-System/Records": "LiVolume2",
+  "Machine-Learning/Images": "LiImage",
+  "Machine-Learning/MindMap": "LiBrain",
+  "Machine-Learning/Records": "LiVolume2",
+  "Machine-Learning/Sheets": "LiPenBox",
+  "Machine-Learning/Lectures": "LiNewspaper",
+  "Computer-Network/Images": "LiImage",
+  "Computer-Network/Labs": "LiExperiment",
+  "Computer-Network/Lectures": "LiNewspaper",
+  "Computer-Network/MindMap": "LiBrain",
+  "Computer-Network/Records": "LiVolume2",
+  "Computer-Network/Sheets": "LiPenBox"
 }

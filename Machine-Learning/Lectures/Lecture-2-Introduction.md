@@ -1,11 +1,13 @@
 ---
-Lecture-Date: 2024-09-30
-Finish?: true
+Lecture-Date: 2024-10-07
+Finish?: false
 Study-Date: 2024-10-15
 ---
 ---
 >[!Example] Main Topics
->- Introduction 
+>- Types of Machine Learning 
+>-
+>
 
 >[!Summary]
 >-
