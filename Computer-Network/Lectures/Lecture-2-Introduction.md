@@ -12,9 +12,6 @@ Study-Date: 2024-10-19
 >- Internetworks 
 
 
->[!Summary]
->-
->-
 
 
 # Network Topologies 
