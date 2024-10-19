@@ -11,8 +11,7 @@ Study-Date: 2024-10-19
 >- Network 
 >- Network Terminology 
 
->[!Summary]
->- Not an Important Lecture (Just Introduction)
+
 
 
 # Network Definition 
