@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Network/Lectures/Lecture-2-Introduction.md",
+                "file": "Machine-Learning/Lectures/Lecture-2-Introduction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer-Network/Lectures/Lecture-2-Introduction.md"
+                "file": "Machine-Learning/Lectures/Lecture-2-Introduction.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Lecture-2-Introduction"
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer-Network/Lectures/Lecture-2-Introduction.md",
+                "file": "Machine-Learning/Lectures/Lecture-2-Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer-Network/Lectures/Lecture-2-Introduction.md",
+                "file": "Machine-Learning/Lectures/Lecture-2-Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,8 +198,9 @@
   },
   "active": "4cbee71eabd24338",
   "lastOpenFiles": [
-    "Computer-Network/Records/Ring.webm",
+    "Machine-Learning/Lectures/Lecture-1-Introduction.md",
     "Computer-Network/Lectures/Lecture-2-Introduction.md",
+    "Computer-Network/Records/Ring.webm",
     "Computer-Network/Lectures/Lecture-3.md",
     "Computer-Network/Images/Ring.png",
     "Computer-Network/Records/Star.webm",
@@ -218,7 +219,6 @@
     "Computer-Network/MindMap",
     "Computer-Network/Labs",
     "Untitled.md",
-    "Machine-Learning/Lectures/Lecture-1-Introduction.md",
     "Embedded-Systems/Sheets/Sheet-2.md",
     "Embedded-Systems/Lectures/Lecture_2_Input-Output_Port.md",
     "Embedded-Systems/Images/Example1Lecture2.png",
