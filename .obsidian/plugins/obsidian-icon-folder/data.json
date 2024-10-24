@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiVolume2",
+      "LiExperiment",
       "LiBrain",
       "LiImage",
-      "LiPenBox",
-      "LiNewspaper",
-      "LiVolume2"
+      "LiPenBox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -78,5 +78,11 @@
   "Computer-Network/Lectures": "LiNewspaper",
   "Computer-Network/MindMap": "LiBrain",
   "Computer-Network/Records": "LiVolume2",
-  "Computer-Network/Sheets": "LiPenBox"
+  "Computer-Network/Sheets": "LiPenBox",
+  "VLSI/Images": "LiImage",
+  "VLSI/Labs": "LiExperiment",
+  "VLSI/Lectures": "LiNewspaper",
+  "VLSI/MindMap": "LiBrain",
+  "VLSI/Records": "LiVolume2",
+  "VLSI/Sheets": "LiPenBox"
 }
