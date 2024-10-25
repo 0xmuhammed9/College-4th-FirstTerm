@@ -11,12 +11,15 @@
             "id": "72c940309257a371",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Computer-Network/Images/OSIModel.jpg"
+                "file": "Computer-Network/Lectures/Lecture-5-DataLink-Layer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "OSIModel"
+              "icon": "lucide-file",
+              "title": "Lecture-5-DataLink-Layer"
             }
           }
         ]
@@ -119,10 +122,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer-Network/Images/OSIModel.jpg"
+                "file": "Computer-Network/Lectures/Lecture-5-DataLink-Layer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of OSIModel"
+              "title": "Outline of Lecture-5-DataLink-Layer"
             }
           },
           {
@@ -195,50 +198,51 @@
   },
   "active": "72c940309257a371",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-19 15.44.56.excalidraw.md",
-    "VLSI/Sheets",
-    "VLSI/Records",
-    "VLSI/MindMap",
-    "VLSI/Lectures",
-    "VLSI/Labs",
-    "VLSI/Images",
-    "Embedded-Systems/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
-    "Embedded-Systems/Lectures/Lecture_1_Introduction-To-Embedded-System.md",
-    "Computer-Network/Lectures/Lecture-3-Protocols.md",
-    "Computer-Network/Records/PhysicalLayer.webm",
-    "Computer-Network/Records/DataLinkLayer.webm",
-    "Computer-Network/Records/TransportLayer.webm",
-    "Computer-Network/Records/NetworkLayer.webm",
-    "Computer-Network/Images/OSIModel.jpg",
-    "Computer-Network/Images/OSIMode.jpg",
-    "Computer-Network/Lectures/Lecture-2-Introduction.md",
-    "Extra/Templates/Cornell-Notes-Template.md",
+    "Computer-Network/Records/selectivereject.mkv",
+    "Computer-Network/Records/Sliding-Window.mkv",
+    "Computer-Network/Records/stop-wait-arq.mkv",
+    "Computer-Network/Records/gobackndamagedframe.mkv",
+    "Computer-Network/Records/gobackn-Cont.mkv",
+    "Computer-Network/Lectures/Lecture-5-DataLink-Layer.md",
+    "Computer-Network/Records/gobackn.mkv",
+    "Computer-Network/Records/stop-wat-damagedframe.mkv",
+    "Computer-Network/Records/stop-wait.mkv",
+    "Computer-Network/Records/Poll-Select.mkv",
+    "Computer-Network/Records/2024-10-25 11-18-54.mkv",
+    "Computer-Network/Images/enq-ack.png",
+    "Computer-Network/Records/ENQ-ACK.mkv",
+    "Computer-Network/Images/Redundancy.png",
+    "Computer-Network/Images/Single.png",
+    "Computer-Network/Images/Multiple.png",
+    "Computer-Network/Images/Burst.png",
     "Computer-Network/Lectures/Lecture-1-Introduction.md",
+    "Computer-Network/Lectures/Lecture-2-Introduction.md",
+    "Computer-Network/Lectures/Lecture-3-Protocols.md",
+    "Computer-Network/Lectures/Lecture-4-Physical-Layer.md",
+    "Untitled.md",
+    "VLSI/Sheets/Sheet-1.md",
+    "VLSI/Lectures/Lecture-1-Introduction.md",
+    "Embedded-Systems/Lectures/Lecture_1_Introduction-To-Embedded-System.md",
+    "VLSI/Lectures/Lecture-3.md",
+    "VLSI/Lectures/Lecture-2.md",
+    "Computer-Network/Images/OSIModel.jpg",
+    "Excalidraw/Drawing 2024-10-19 15.44.56.excalidraw.md",
+    "Embedded-Systems/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
+    "Computer-Network/Images/OSIMode.jpg",
+    "Extra/Templates/Cornell-Notes-Template.md",
     "Machine-Learning/Lectures/Lecture-2-Introduction.md",
     "Machine-Learning/Lectures/Lecture-1-Introduction.md",
     "Computer-Network/Images/Ring.png",
     "Computer-Network/Images/Star.png",
     "Computer-Network/Images/Bus.png",
-    "Computer-Network/Images/MeshTopology.png",
-    "Computer-Network/Images/Network.png",
-    "Untitled.md",
     "Embedded-Systems/Sheets/Sheet-2.md",
     "Embedded-Systems/Lectures/Lecture_2_Input-Output_Port.md",
-    "Embedded-Systems/Images/Example1Lecture2.png",
-    "Embedded-Systems/Images/StructureofprogrammableparallelInputOutputports.png",
-    "Embedded-Systems/Images/structureofinput-output.png",
     "README.md",
     "Embedded-Systems/Images/GenralArhcitecureofMCU.md",
     "Digital-System/Images/CLB-and-LogicCell-BlockDiagram.md",
     "Digital-System/Lectures/Lecture_1_Introduction.md",
     "Digital-System/Images/GeneralStructureOfFPGA.excalidraw.md",
     "Extra/Excalidraw/First-Term-Subjects.md",
-    "Tasks Plugin - Review and check your Statuses 2024-10-01 12-13-53.md",
-    "Images/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
-    "Embedded-Systems/Untitled.md",
-    "Machine-Learning/Lecture 2.md",
-    "Invalid date.md",
-    "Embedded-Systems/Lecture2.md",
-    "Machine-Learning/Lecture 1.md"
+    "Tasks Plugin - Review and check your Statuses 2024-10-01 12-13-53.md"
   ]
 }
