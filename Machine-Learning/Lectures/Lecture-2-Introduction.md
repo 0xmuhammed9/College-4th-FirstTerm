@@ -9,10 +9,7 @@ Study-Date: 2024-10-15
 >- No
 >
 
-<span style="color:rgb(0, 176, 80)"><span style="color:rgb(0, 176, 80)">>[!Summary]
->-
->-</span>
-</span>
+
 
 
 
