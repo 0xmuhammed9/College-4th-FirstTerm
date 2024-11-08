@@ -1,6 +1,6 @@
 ---
 Lecture-Date: 2024-10-16
-Finish?: false
+Finish?: true
 Study-Date:
 ---
 ---
