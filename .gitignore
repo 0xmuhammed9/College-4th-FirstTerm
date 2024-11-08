@@ -1,4 +1,6 @@
 Extra/Templates
 Extra/Excalidraw
-.temp.driverupload
-.temp.driverupload/*
+.temp.driveupload
+.temp.driveupload/*
+.tmp.driveupload\*
+.tmp.driveupload
