@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-Learning/Lectures/Lecture-4-Random-Forest.md",
+                "file": "Computer-Network/Lectures/Lecture-2-Introduction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture-4-Random-Forest"
+              "title": "Lecture-2-Introduction"
             }
           }
         ]
@@ -122,10 +122,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-Learning/Lectures/Lecture-4-Random-Forest.md"
+                "file": "Computer-Network/Lectures/Lecture-2-Introduction.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture-4-Random-Forest"
+              "title": "Outline of Lecture-2-Introduction"
             }
           },
           {
@@ -191,43 +191,47 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3f40632cf6b00b83",
   "lastOpenFiles": [
-    "Machine-Learning/Images/Pasted image 20241031190652.png",
-    "Machine-Learning/Images/Pasted image 20241031190640.png",
-    "Machine-Learning/Images/Pasted image 20241031185055.png",
-    "Machine-Learning/Images/Pasted image 20241031185020.png",
-    "Machine-Learning/Lectures/Lecture-4-Random-Forest.md",
+    "Computer-Network/Lectures/Lecture-1-Introduction.md",
+    "Machine-Learning/Lectures/Lecture 5 - Linear Regression.md",
+    "Embedded-Systems/Lectures/Lecture 3 - Mechanisms of Communicating the CPU with Input-Output Devices.md",
+    "Embedded-Systems/Lectures/Lecture 2 - Architecture of Microcontrollers.md",
+    "Embedded-Systems/Lectures/Lecture 4 - Timers and Timer0 of ATmega16.md",
+    "Embedded-Systems/Lectures/Lecture 1 - Introduction To Embedded-System.md",
+    "Embedded-Systems/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
+    "Embedded-Systems/Images/GenralArhcitecureofMCU.md",
+    "Embedded-Systems/Images/Pasted image 20241102103555.png",
+    "Machine-Learning/Lectures/Lecture 1 - Introduction.md",
+    "Machine-Learning/Lectures/Lecture 2 - Introduction.md",
+    "Machine-Learning/Lectures/Lecture 3 - Decision Tree.md",
+    "Machine-Learning/Lectures/Lecture 4 - Random Forest.md",
+    "Embedded-Systems/Images/Pasted image 20241101141937.png",
+    "Embedded-Systems/Images/Pasted image 20241101141910.png",
+    "Embedded-Systems/Images/Pasted image 20241101141846.png",
+    "Embedded-Systems/Images/Pasted image 20241101141609.png",
+    "Embedded-Systems/Images/Pasted image 20241101141447.png",
+    "Embedded-Systems/Images/Pasted image 20241101141325.png",
+    "Embedded-Systems/Images/Pasted image 20241101032953.png",
+    "Embedded-Systems/Images/Screenshot_1.png.~tmp",
+    "Embedded-Systems/Images/Screenshot_1.png",
+    "Embedded-Systems/Images/Pasted image 20241101031938.png",
+    "Embedded-Systems/Images/structureoftimer0withcontrolandstatusregisters.png.~tmp",
+    "Embedded-Systems/Images/structureoftimer0.png.~tmp",
+    "Embedded-Systems/Images/outputwaveformoftheprescaler.png.~tmp",
+    "Embedded-Systems/Images/StructureofPrescaler.png.~tmp",
+    "Embedded-Systems/Images/blockdiadgramofanNbitTimer.png.~tmp",
     "Machine-Learning/Records/Recording 20241031184011.webm",
-    "Machine-Learning/Images/Pasted image 20241031183922.png",
     "Machine-Learning/Records/Recording 20241031181549.webm",
     "Recording 20241031181212.webm",
-    "Machine-Learning/Images/Pasted image 20241031181202.png",
     "Computer-Network/Lectures/Lecture-5-DataLink-Layer.md",
     "Machine-Learning/Sheets/Sheet 1 - Decision Tree.md",
-    "Machine-Learning/Images/Pasted image 20241029165814.png",
-    "Machine-Learning/Images/Pasted image 20241029165726.png",
-    "Machine-Learning/Lectures/Lecture-3-Decision-Tree.md",
-    "Machine-Learning/Lectures/Lecture-2-Introduction.md",
-    "Machine-Learning/Lectures/Lecture-1-Introduction.md",
-    "Embedded-Systems/Lectures/Lecture_3_Mechanisms-of-Communicating-the-CPY-with-Input-Output-Devices.md",
     "Embedded-Systems/Records/Problem4.mkv",
-    "Embedded-Systems/Records/2024-10-28 11-07-41.mkv",
-    "Embedded-Systems/Images/Pasted image 20241028110729.png",
-    "Embedded-Systems/Records/Interrupt.mkv",
-    "Embedded-Systems/Records/2024-10-28 10-52-46.mkv",
     "README.md",
-    "Embedded-Systems/Images/Pasted image 20241028105108.png",
-    "Embedded-Systems/Lectures/Lecture_2_Arhcitecture-of-Microcontrollers.md",
-    "Embedded-Systems/Lectures/Lecture_1_Introduction-To-Embedded-System.md",
-    "Computer-Network/Records/selectivereject.mkv",
-    "Computer-Network/Records/Sliding-Window.mkv",
-    "Computer-Network/Records/stop-wait-arq.mkv",
-    "Computer-Network/Lectures/Lecture-1-Introduction.md",
     "Computer-Network/Lectures/Lecture-2-Introduction.md",
     "Computer-Network/Lectures/Lecture-3-Protocols.md",
     "Computer-Network/Lectures/Lecture-4-Physical-Layer.md",
@@ -237,10 +241,7 @@
     "VLSI/Lectures/Lecture-3.md",
     "VLSI/Lectures/Lecture-2.md",
     "Excalidraw/Drawing 2024-10-19 15.44.56.excalidraw.md",
-    "Embedded-Systems/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
     "Extra/Templates/Cornell-Notes-Template.md",
-    "Embedded-Systems/Sheets/Sheet-2.md",
-    "Embedded-Systems/Images/GenralArhcitecureofMCU.md",
-    "Digital-System/Images/CLB-and-LogicCell-BlockDiagram.md"
+    "Embedded-Systems/Sheets/Sheet-2.md"
   ]
 }

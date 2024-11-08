@@ -44,7 +44,7 @@ Study-Date: 2024-10-19
 
 - Use a single backbone cable that is terminated at both ends.
 - All the hosts connect directly to this backbone. 
-- One host send data --> Data move through the buss and reaches all the other hosts.
+- One host send data ---> Data move through the buss and reaches all the other hosts.
 ![[BUs.webm]]
 
 ## Star Topology 
