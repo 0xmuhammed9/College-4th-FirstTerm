@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Network/Lectures/Lecture-3-Protocols.md",
-                "mode": "preview",
+                "file": "Machine-Learning/Lectures/Lecture 2 - Introduction.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture-3-Protocols"
+              "title": "Lecture 2 - Introduction"
             }
           }
         ]
@@ -122,10 +122,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer-Network/Lectures/Lecture-3-Protocols.md"
+                "file": "Machine-Learning/Lectures/Lecture 2 - Introduction.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture-3-Protocols"
+              "title": "Outline of Lecture 2 - Introduction"
             }
           },
           {
@@ -197,6 +197,13 @@
   },
   "active": "3f40632cf6b00b83",
   "lastOpenFiles": [
+    "Machine-Learning/Records/Recording 20241109161247.webm",
+    "VLSI/Records/WhatisVLSI.webm",
+    "Machine-Learning/Lectures/Lecture 2 - Introduction.md",
+    "Machine-Learning/Records/Recording 20241109160125.webm",
+    "Machine-Learning/Lectures/Lecture 1 - Introduction.md",
+    "Machine-Learning/Lectures/Lecture 3 - Decision Tree.md",
+    "Computer-Network/Lectures/Lecture-3-Protocols.md",
     "Computer-Network/Lectures/Lecture-2-Introduction.md",
     "Computer-Network/Lectures/Lecture-1-Introduction.md",
     "Machine-Learning/Lectures/Lecture 5 - Linear Regression.md",
@@ -207,9 +214,6 @@
     "Embedded-Systems/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
     "Embedded-Systems/Images/GenralArhcitecureofMCU.md",
     "Embedded-Systems/Images/Pasted image 20241102103555.png",
-    "Machine-Learning/Lectures/Lecture 1 - Introduction.md",
-    "Machine-Learning/Lectures/Lecture 2 - Introduction.md",
-    "Machine-Learning/Lectures/Lecture 3 - Decision Tree.md",
     "Machine-Learning/Lectures/Lecture 4 - Random Forest.md",
     "Embedded-Systems/Images/Pasted image 20241101141937.png",
     "Embedded-Systems/Images/Pasted image 20241101141910.png",
@@ -228,12 +232,9 @@
     "Embedded-Systems/Images/blockdiadgramofanNbitTimer.png.~tmp",
     "Machine-Learning/Records/Recording 20241031184011.webm",
     "Machine-Learning/Records/Recording 20241031181549.webm",
-    "Recording 20241031181212.webm",
     "Computer-Network/Lectures/Lecture-5-DataLink-Layer.md",
     "Machine-Learning/Sheets/Sheet 1 - Decision Tree.md",
-    "Embedded-Systems/Records/Problem4.mkv",
     "README.md",
-    "Computer-Network/Lectures/Lecture-3-Protocols.md",
     "Computer-Network/Lectures/Lecture-4-Physical-Layer.md",
     "Untitled.md",
     "VLSI/Sheets/Sheet-1.md",
@@ -241,7 +242,6 @@
     "VLSI/Lectures/Lecture-3.md",
     "VLSI/Lectures/Lecture-2.md",
     "Excalidraw/Drawing 2024-10-19 15.44.56.excalidraw.md",
-    "Extra/Templates/Cornell-Notes-Template.md",
-    "Embedded-Systems/Sheets/Sheet-2.md"
+    "Extra/Templates/Cornell-Notes-Template.md"
   ]
 }
