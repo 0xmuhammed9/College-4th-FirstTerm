@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-Learning/Lectures/Lecture 2 - Introduction.md",
+                "file": "Machine-Learning/Lectures/Lecture 5 - Linear Regression.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2 - Introduction"
+              "title": "Lecture 5 - Linear Regression"
             }
           }
         ]
@@ -122,10 +122,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-Learning/Lectures/Lecture 2 - Introduction.md"
+                "file": "Machine-Learning/Lectures/Lecture 5 - Linear Regression.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 2 - Introduction"
+              "title": "Outline of Lecture 5 - Linear Regression"
             }
           },
           {
@@ -197,16 +197,17 @@
   },
   "active": "3f40632cf6b00b83",
   "lastOpenFiles": [
+    "Machine-Learning/Lectures/Lecture 4 - Random Forest.md",
+    "Machine-Learning/Lectures/Lecture 3 - Decision Tree.md",
+    "Machine-Learning/Lectures/Lecture 2 - Introduction.md",
+    "Machine-Learning/Lectures/Lecture 5 - Linear Regression.md",
     "Machine-Learning/Records/Recording 20241109161247.webm",
     "VLSI/Records/WhatisVLSI.webm",
-    "Machine-Learning/Lectures/Lecture 2 - Introduction.md",
     "Machine-Learning/Records/Recording 20241109160125.webm",
     "Machine-Learning/Lectures/Lecture 1 - Introduction.md",
-    "Machine-Learning/Lectures/Lecture 3 - Decision Tree.md",
     "Computer-Network/Lectures/Lecture-3-Protocols.md",
     "Computer-Network/Lectures/Lecture-2-Introduction.md",
     "Computer-Network/Lectures/Lecture-1-Introduction.md",
-    "Machine-Learning/Lectures/Lecture 5 - Linear Regression.md",
     "Embedded-Systems/Lectures/Lecture 3 - Mechanisms of Communicating the CPU with Input-Output Devices.md",
     "Embedded-Systems/Lectures/Lecture 2 - Architecture of Microcontrollers.md",
     "Embedded-Systems/Lectures/Lecture 4 - Timers and Timer0 of ATmega16.md",
@@ -214,7 +215,6 @@
     "Embedded-Systems/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
     "Embedded-Systems/Images/GenralArhcitecureofMCU.md",
     "Embedded-Systems/Images/Pasted image 20241102103555.png",
-    "Machine-Learning/Lectures/Lecture 4 - Random Forest.md",
     "Embedded-Systems/Images/Pasted image 20241101141937.png",
     "Embedded-Systems/Images/Pasted image 20241101141910.png",
     "Embedded-Systems/Images/Pasted image 20241101141846.png",
@@ -231,7 +231,6 @@
     "Embedded-Systems/Images/StructureofPrescaler.png.~tmp",
     "Embedded-Systems/Images/blockdiadgramofanNbitTimer.png.~tmp",
     "Machine-Learning/Records/Recording 20241031184011.webm",
-    "Machine-Learning/Records/Recording 20241031181549.webm",
     "Computer-Network/Lectures/Lecture-5-DataLink-Layer.md",
     "Machine-Learning/Sheets/Sheet 1 - Decision Tree.md",
     "README.md",
