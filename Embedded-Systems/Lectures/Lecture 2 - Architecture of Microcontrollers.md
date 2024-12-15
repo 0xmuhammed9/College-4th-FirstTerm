@@ -47,7 +47,7 @@ Write a micro-C program for ATmega16 MC to operate this circuit.
 ![[Example1Lecture2.png]]
 
 ```c
-Main(void)
+main(void)
 {
 short int x;
 DDRA = 0x00; //set port A as input

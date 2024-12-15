@@ -4,11 +4,6 @@ Finish?: false
 Study-Date:
 ---
 ---
->[!Example] Main Topics
->-
->-
->
-
 # What is Random Forest?
 
 - Is a supervised learning algorithm

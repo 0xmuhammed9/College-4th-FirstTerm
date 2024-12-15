@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f40632cf6b00b83",
+            "id": "fd6d8f682ce4a603",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-Learning/Lectures/Lecture 5 - Linear Regression.md",
+                "file": "Machine-Learning/Lectures/Lecture 4 - Random Forest.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5 - Linear Regression"
+              "title": "Lecture 4 - Random Forest"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 310.5110321044922
   },
   "right": {
     "id": "72415a6301a47311",
@@ -98,8 +98,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "8a9f0d2c19beaca0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine-Learning/Lectures/Lecture 4 - Random Forest.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lecture 4 - Random Forest"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f0c9f514248b25f6",
@@ -114,18 +127,6 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
-            }
-          },
-          {
-            "id": "8a9f0d2c19beaca0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Machine-Learning/Lectures/Lecture 5 - Linear Regression.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Lecture 5 - Linear Regression"
             }
           },
           {
@@ -178,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,52 +195,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f40632cf6b00b83",
+  "active": "fd6d8f682ce4a603",
   "lastOpenFiles": [
-    "Machine-Learning/Lectures/Lecture 4 - Random Forest.md",
     "Machine-Learning/Lectures/Lecture 3 - Decision Tree.md",
+    "Machine-Learning/Images/Pasted image 20241215045833.png",
+    "Machine-Learning/Images/Pasted image 20241215045007.png",
+    "Machine-Learning/Images/Pasted image 20241215044816.png",
+    "Machine-Learning/Lectures/Lecture 4 - Random Forest.md",
     "Machine-Learning/Lectures/Lecture 2 - Introduction.md",
-    "Machine-Learning/Lectures/Lecture 5 - Linear Regression.md",
-    "Machine-Learning/Records/Recording 20241109161247.webm",
-    "VLSI/Records/WhatisVLSI.webm",
-    "Machine-Learning/Records/Recording 20241109160125.webm",
     "Machine-Learning/Lectures/Lecture 1 - Introduction.md",
+    "VLSI/Lectures/Lecture 2 - Introduction.md",
+    "VLSI/Images/Pasted image 20241210112107.png",
+    "VLSI/Images/Pasted image 20241210103929.png",
+    "VLSI/Lectures/Lecture 1 - CMOS Logic Circuits.md",
+    "Machine-Learning/Images/Pasted image 20241208185130.png",
+    "Machine-Learning/Records/Recording 20241208184643.webm",
+    "Machine-Learning/Images/Pasted image 20241208184515.png",
+    "Machine-Learning/Images/Pasted image 20241208184505.png",
+    "Machine-Learning/Lectures/Lecture 7 - K Mearn.md",
+    "Machine-Learning/Lectures/Lecture 6 - Support Vector Machine.md",
+    "Machine-Learning/Sheets/Sheet 1 - Decision Tree.md",
+    "Computer-Network/Lectures/Lecture 7 - LAN.md",
+    "Computer-Network/Images/slotedaloha.png",
+    "Computer-Network/Images/purealoha.png",
+    "Machine-Learning/Lectures/Lecture 5 - Linear Regression.md",
+    "Embedded-Systems/Lectures/Lecture 6 - Timer1.md",
+    "Embedded-Systems/Records/TImer1Example1.webm",
+    "Recording 20241201083856.webm",
+    "Embedded-Systems/Lectures/Lecture 4 - Timers and Timer0 of ATmega16.md",
+    "Embedded-Systems/Lectures/Lecture 5 - ADC System.md",
+    "Computer-Network/Lectures/Lecture 6 - High Level Data Link Control.md",
+    "Computer-Network/Lectures/Lecture-5-DataLink-Layer.md",
+    "Computer-Network/Lectures/Lecture-4-Physical-Layer.md",
     "Computer-Network/Lectures/Lecture-3-Protocols.md",
     "Computer-Network/Lectures/Lecture-2-Introduction.md",
     "Computer-Network/Lectures/Lecture-1-Introduction.md",
-    "Embedded-Systems/Lectures/Lecture 3 - Mechanisms of Communicating the CPU with Input-Output Devices.md",
+    "Computer-Network/Records/2024-11-12 19-50-20.mkv",
     "Embedded-Systems/Lectures/Lecture 2 - Architecture of Microcontrollers.md",
-    "Embedded-Systems/Lectures/Lecture 4 - Timers and Timer0 of ATmega16.md",
+    "Embedded-Systems/Lectures/Lecture 3 - Mechanisms of Communicating the CPU with Input-Output Devices.md",
     "Embedded-Systems/Lectures/Lecture 1 - Introduction To Embedded-System.md",
     "Embedded-Systems/Images/GeneralBlockDiagramofAnEmbeddedSystems.md",
-    "Embedded-Systems/Images/GenralArhcitecureofMCU.md",
-    "Embedded-Systems/Images/Pasted image 20241102103555.png",
-    "Embedded-Systems/Images/Pasted image 20241101141937.png",
-    "Embedded-Systems/Images/Pasted image 20241101141910.png",
-    "Embedded-Systems/Images/Pasted image 20241101141846.png",
-    "Embedded-Systems/Images/Pasted image 20241101141609.png",
-    "Embedded-Systems/Images/Pasted image 20241101141447.png",
-    "Embedded-Systems/Images/Pasted image 20241101141325.png",
-    "Embedded-Systems/Images/Pasted image 20241101032953.png",
+    "Digital-System/Lectures/Lecture_1_Introduction.md",
+    "Digital-System/Images/GeneralStructureOfFPGA.excalidraw.md",
+    "Machine-Learning/Records/Recording 20241109161247.webm",
+    "VLSI/Records/WhatisVLSI.webm",
+    "Machine-Learning/Records/Recording 20241109160125.webm",
     "Embedded-Systems/Images/Screenshot_1.png.~tmp",
-    "Embedded-Systems/Images/Screenshot_1.png",
-    "Embedded-Systems/Images/Pasted image 20241101031938.png",
     "Embedded-Systems/Images/structureoftimer0withcontrolandstatusregisters.png.~tmp",
-    "Embedded-Systems/Images/structureoftimer0.png.~tmp",
-    "Embedded-Systems/Images/outputwaveformoftheprescaler.png.~tmp",
-    "Embedded-Systems/Images/StructureofPrescaler.png.~tmp",
-    "Embedded-Systems/Images/blockdiadgramofanNbitTimer.png.~tmp",
-    "Machine-Learning/Records/Recording 20241031184011.webm",
-    "Computer-Network/Lectures/Lecture-5-DataLink-Layer.md",
-    "Machine-Learning/Sheets/Sheet 1 - Decision Tree.md",
-    "README.md",
-    "Computer-Network/Lectures/Lecture-4-Physical-Layer.md",
-    "Untitled.md",
-    "VLSI/Sheets/Sheet-1.md",
-    "VLSI/Lectures/Lecture-1-Introduction.md",
-    "VLSI/Lectures/Lecture-3.md",
-    "VLSI/Lectures/Lecture-2.md",
-    "Excalidraw/Drawing 2024-10-19 15.44.56.excalidraw.md",
-    "Extra/Templates/Cornell-Notes-Template.md"
+    "Embedded-Systems/Images/structureoftimer0.png.~tmp"
   ]
 }

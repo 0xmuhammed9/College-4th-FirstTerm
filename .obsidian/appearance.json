@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Material Ocean",
+  "cssTheme": "Tokyo Night",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "Cornell-Class",
@@ -8,5 +8,5 @@
     "cornell-right",
     "customcue"
   ],
-  "accentColor": "#ac1126"
+  "accentColor": "#ac47d1"
 }

@@ -18,24 +18,33 @@ ___
 | Decision Tree Algorithm | https://www.youtube.com/watch?v=LtfExrMZpi0 | High      |
 | Example                 | https://www.youtube.com/watch?v=coOTEc-0OGw | High      |
 
+# What is Decision Trees
+
+- Is a **supervised learning** algorithm that is used for classification and regression modeling.
 
 
-- A decision tree is a supervised learning algorithm that is used for classification and regression
-- If the Entropy is Close to Zero this is good.
-- If the Entropy is 1 : The Question is Discarded  ملوش لازمة يعني  
-- We Search for Best Information gain to start the tree from it
+## Decision Trees Components
 
-# Preference bias: Ockham's Razor
+![[Pasted image 20241215044816.png]]
+-  **Internal node**: test on attribute X (Outlook, Humidity, Wind)
+-  **Branch from a node:** Selects one value for X (Sunny, Overcast , High)
+-  **Leaf node**: predict Y (Yes, No) are the endpoints of the tree.
 
-### idea : The simplest consistent explanation is the best.
+#### Note
+- If features are continuous, internal nodes can test the value of a feature against a threshold.
 
-- The smallest decision tree that correctly classifies all of the training examples is best
+## Ockham's Razor: preference bias
+
+- **Idea:** The simplest consistent explanation is the best.
+- The smallest decision tree that correctly classifies all of the training examples is best.
+	- Finding the smallest decision tree
 
 
-# Information Gain
+# Choosing the Best Attribute 
 
-- Tell us how important a given attribute of the feature vectors is.
-- Use it to decide the ordering of attributes in the nodes of a decision tree.
-- Is the mutual information between input attribute a and target variable y.
-- The expected reduction in entropy of target variable Y for data sample S, due to sorting on Variable A.
-- 
+- The ID3 algorithm uses the Max-Gain method of selecting the best attribute.
+- **Impurity/ Entropy:**
+	- Measures the level of **impurity** in a group of examples.
+	- Is the mutual Information between input attribute A and target Variable Y.
+
+![[Pasted image 20241215045833.png]]
