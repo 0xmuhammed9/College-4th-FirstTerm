@@ -6,7 +6,7 @@ Study-Date:
 ---
 # What is Random Forest?
 
-- Is a supervised learning algorithm
+- Is a supervised learning algorithm Used in Classification and Regression.
 - The "Forest" its builds : يعني هي شبه الغابة حرفيا 
 - Usually trained with the "bagging" method 
 	- يعنى بيجيبوا كذا Algorithm  و يدمجوهم سوا هي دي فكرة ال Bagging  
