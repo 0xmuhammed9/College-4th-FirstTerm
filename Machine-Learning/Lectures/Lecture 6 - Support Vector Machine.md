@@ -4,10 +4,6 @@ Finish?: false
 Study-Date: 2024-12-03
 ---
 ---
->[!Example] Main Topics
->-
->-
->
 
 
 ### Support Vector Machines (SVM)
@@ -79,3 +75,21 @@ Study-Date: 2024-12-03
 - الهدف انى بجيب مساقة بين ال Two Classes  و تكون هي فالمنتصف بالظبط بين نقطتين
 
 ![[Pasted image 20241203105749.png]]
+
+
+# How it Works? 
+- The main ideas is about choosing the best **hyperplane** that **maximizes** the margins between classes.
+- **Support Vectors**
+	- The closest points that identify the best **hyperplane**.
+- Hyperplanes
+	- Any shape can يفصل the points 
+
+![[Pasted image 20241216105027.png]]
+
+# Strength of SVMs
+- Good generalization 
+- Works well with few training instances 
+- Find globally best model.
+- Efficient algorithms.
+- SVM Works for Classification and Regression.
+- For Linearly separable binary set.

@@ -33,15 +33,18 @@ Study-Date:
 
 
 # Example on Random Forest 
-- In random Forest uses bootstrap sampling to create multiple datasets by randomly selecting samples.
+- In random Forest uses **bootstrap** sampling to create multiple datasets by randomly selecting samples.
+- Each decision tree is built using a subset of the features and a **bootstrapped sample of the data**
+- 
 
 
 
 # Difference between Decision Tree and Random Forest 
 
 - The random forest algorithm randomly selects observations and features to build several decision trees and then averages the results.
-- Decision trees might suffer from overfitting.
-- Random forest prevents this by creating random subsets of the features and building smaller trees using those subsets.
+- Another Difference is **deep** decision trees might suffer from overfitting.
+	- Decision trees might suffer from overfitting.
+	- Random forest prevents this by creating random subsets of the features and building smaller trees using those subsets.
 - The randomness helps in reducing the correlation between individual trees.
 - Can't overfit as easily as a single.
 

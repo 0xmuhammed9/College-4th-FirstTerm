@@ -4,11 +4,6 @@ Finish?: false
 Study-Date:
 ---
 ---
->[!Example] Main Topics
->- Semiconductor Manufacturing 
->-
->
-
 
 # What is Integrated Circuit? 
 
