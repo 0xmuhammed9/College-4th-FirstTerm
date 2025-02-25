@@ -58,7 +58,7 @@ Study-Date:
 ### Advantages 
 1. Very fast and can easily predict the class of a test dataset.
 2. Solve multi-class prediction problems.
-3. Less training data if the assumption of independence of features holds.
+3. Performs better than other models with less training data if the assumption of independent of features holds. 
 ### Disadvantages
-1. If test data set has a categorical variable of a category that wasn't present in the training dataset, the model will assign it zero.
+1. If test data set has a categorical variable of a category that wasn't present in the training dataset, the model will assign it zero, and won't be able to make any predictions in this regard. 
 2. Hardly find a set of independent features.

@@ -3,7 +3,7 @@ Lecture-Date: 2024-10-28
 Finish?: false
 Study-Date: 2024-12-03
 ---
----
+ ---
 
 
 ### Support Vector Machines (SVM)
@@ -93,3 +93,6 @@ Study-Date: 2024-12-03
 - Efficient algorithms.
 - SVM Works for Classification and Regression.
 - For Linearly separable binary set.
+
+![[Pasted image 20250101095214.png]]
+![[Pasted image 20250101095224.png]]
